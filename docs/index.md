@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Home
 title: About us
 ---
 
