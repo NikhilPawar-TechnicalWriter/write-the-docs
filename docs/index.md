@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About us
+title: Home
 ---
 
 # My GitHub Pages site
