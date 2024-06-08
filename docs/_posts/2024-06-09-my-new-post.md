@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Posts
 ---
 
 This is my first blog post.
